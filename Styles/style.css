@@ -147,7 +147,7 @@ input[type='number'] {
 .transactions li {
     background-color: rgb(0, 0, 0);
     box-shadow: var(--box-shadow);
-    color: #333;
+    color: rgb(8, 215, 230);
     display: flex;
     justify-content: space-between;
     position: relative;
