@@ -7,3 +7,4 @@ O projeto foi desenvolvido seguindo as seguintes tecnologias:
 
 <li>HTML
 <li>CSS
+<li>JavaScript
